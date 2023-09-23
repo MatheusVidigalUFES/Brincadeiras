@@ -1,5 +1,5 @@
 def tira_vogal(string):
-    lista_vogais=['a','e','i','o','u']
+    lista_vogais=['a','e','i','o','u','A','E','I','O','U']
     lista_consoante=[]
     s = ''
     for j in string:
